@@ -18,7 +18,7 @@ A console-based inventory management application written in C++ designed to stre
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/Inventory-Expiry-Tracker-CPP.git](https://github.com/your-username/Inventory-Expiry-Tracker-CPP.git)
+   git clone https://github.com/JiteshPurohit06/Inventory-Expiry-Tracker-CPP.git
  HEAD
    cd Inventory-Expiry-Tracker-CPP
 
